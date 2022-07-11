@@ -1,0 +1,21 @@
+2022-07-11 10:35:05,483 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-07-11 10:37:43,661 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yujiyamamoto64:dsmeta:0.0.1-SNAPSHOT @ C:\projetos\dsmeta\dsmeta\pom.xml.
+2022-07-11 10:37:51,124 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dsmeta/src/main/java
+2022-07-11 10:37:51,126 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dsmeta/src/main/resources
+2022-07-11 10:37:51,136 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dsmeta/src/main/resources
+2022-07-11 10:37:51,151 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dsmeta/src/test/java
+2022-07-11 10:37:54,828 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2022-07-11 10:37:54,839 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-07-11 10:37:55,262 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yujiyamamoto64:dsmeta:0.0.1-SNAPSHOT @ C:\projetos\dsmeta\dsmeta\pom.xml.
+2022-07-11 10:37:56,194 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dsmeta/src/main/java
+2022-07-11 10:37:56,195 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dsmeta/src/main/resources
+2022-07-11 10:37:56,195 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /dsmeta/src/main/resources
+2022-07-11 10:37:56,197 [Worker-9: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dsmeta/src/test/java
+2022-07-11 10:37:56,818 [Worker-9: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2022-07-11 10:37:57,866 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-11 10:37:57,867 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-11 10:37:57,874 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-07-11 10:37:57,896 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-07-11 10:37:57,901 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-07-11 10:37:57,901 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-07-11 10:37:57,901 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\projetos\dsmeta\dsmeta\src\test\resources
